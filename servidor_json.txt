@@ -1,0 +1,4 @@
+npm install json-server (para instalar el servidor
+     y poder ejecutar y simular una base de datos)
+
+npm run server (para correr el servidor json)
